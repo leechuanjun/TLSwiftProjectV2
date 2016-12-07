@@ -1,0 +1,6 @@
+[submodule "libs/TLSwiftLibrary"]
+	path = libs/TLSwiftLibrary
+	url = https://github.com/leechuanjun/TLSwiftLibrary.git
+[submodule "libs/TLSwiftLibraryV2"]
+	path = libs/TLSwiftLibraryV2
+	url = https://github.com/leechuanjun/TLSwiftLibraryV2.git
